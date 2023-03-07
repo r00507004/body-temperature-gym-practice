@@ -30,7 +30,7 @@ const config: GatsbyConfig = {
     },
     'gatsby-plugin-postcss',
   ],
-  pathPrefix: '/landing-page',
+  pathPrefix: '/body-temperature-gym-practice',
 }
 
 export default config
